@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "917931289330",
+    "project_id": "login-ui-632cc",
+    "storage_bucket": "login-ui-632cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917931289330:android:e679b715886139d484fe6b",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917931289330-52hrfq9pjqtu6m26i6b0arouahubr0fp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt-Er4JoaqM8ZW6XKBlBpTthimmJYwYmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917931289330-52hrfq9pjqtu6m26i6b0arouahubr0fp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
